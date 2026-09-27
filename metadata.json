@@ -1,0 +1,8 @@
+{
+  "name": "Ficha de Lectoescritura - Letra A",
+  "description": "Ficha imprimible de lectoescritura en español latinoamericano para niños de 5 a 8 años para aprender la letra A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
